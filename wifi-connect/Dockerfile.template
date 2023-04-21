@@ -1,0 +1,3 @@
+FROM balenablocks/wifi-connect:%%BALENA_ARCH%%
+
+ENV PORTAL_SSID = kenhtaymay
